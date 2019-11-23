@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def position_taken?(board, index) # define position_taken? method 
   if board[index] == " " # begin if statement
     false
@@ -20,4 +20,4 @@ def position_taken?(board, index)
     true
   end
 end
->>>>>>> 6da6413a30806a8ee652658116bf53d302c33d16
+
